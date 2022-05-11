@@ -1,4 +1,4 @@
-# Mario-but-Pirates
+v# Mario-but-Pirates
 Mario but Pirates in pygame
 
 
@@ -28,7 +28,7 @@ pip3 install pygame
 pip install pygame 
 ```
 # Launching
-Download the zip file above follow 
+Download the zip file [Here](https://github.com/bmayttvv/Mario-but-Pirates/releases/tag/V1.0 ) and extract it
 **Windows, Linux, Mac OS/OsX**
 ```sh-session
 cd Mario-but-Pirates/code
